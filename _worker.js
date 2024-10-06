@@ -2780,6 +2780,7 @@ async function renderHomePage (env, hostName, fragConfigs) {
             }
         }
 	</script>
+    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b4f99b63b9ad4e24ab6657c44cc1ed10"}'></script><!-- End Cloudflare Web Analytics -->
 	</body>	
 	</html>`;
 
